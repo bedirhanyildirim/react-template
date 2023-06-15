@@ -5,13 +5,10 @@ export default function Header() {
     <div className="w-full flex justify-center items-center bg-gray-100 bg-white">
       <div className="content flex justify-between items-center gap-4 py-2">
         <NavLink to="/" className="text-2xl font-bold mr-auto">
-          Venyu
-        </NavLink>
-        <NavLink to="/">
-          Anasayfa
+          React Template
         </NavLink>
         <NavLink to="/about" className="mr-4">
-          Hakkımızda
+          About
         </NavLink>
       </div>
     </div>

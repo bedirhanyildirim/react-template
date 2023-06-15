@@ -1,7 +1,6 @@
-import Home from "../pages/Home"
-import About from "../pages/About"
-
-import GuestUser from "../layouts/GuestUser"
+import Home from '../pages/Home'
+import About from '../pages/About'
+import GuestUser from '../layouts/GuestUser'
 
 const routes = [
   {
